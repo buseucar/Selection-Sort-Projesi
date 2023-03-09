@@ -26,7 +26,7 @@ Average case: Aradığımız sayının ortada olması
 Worst case: Aradığımız sayının sonda olması
 Best case: Aradığımız sayının dizinin en başında olması.
 
-### 18 ortada olduğu için average case kapsamına girer.
+Cevap: 18 ortada olduğu için average case kapsamına girer.
 
 ## [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
     1. aşama; dizideki en küçük sayı bulunup en başa yazılır. Böylece 7 ve 2 yer değiştirmiş olur. 
